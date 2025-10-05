@@ -28,5 +28,5 @@
 - [R](https://carpentries-incubator.github.io/bioc-intro/)
 - [RStudio](https://carpentries-incubator.github.io/bioc-intro/)
 - Download all files as a [zip file](https://github.com/lgatto/202503-Bioconductor-Kenya/archive/refs/heads/main.zip).
-- 
+
 ![Bioconductor Workshop Kenya group picture](./figs/group_photo.jpg)
